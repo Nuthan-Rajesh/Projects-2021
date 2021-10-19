@@ -1,0 +1,1068 @@
+[
+{
+    "model": "hotels.hotel",
+    "pk": 1,
+    "fields": {
+        "hotel_name": "Novotel Hyderabad Convention Centre",
+        "hotel_description": "<p><strong>Welcome to Novotel Hyderabad Convention Centre, a tranquil oasis next to HITEC City, the IT hub of Hyderabad. With 15 acres of sprawling landscaped gardens around a 288-room property, guests can leave the city behind for a while and enjoy a revitalizing break surrounded by lush greenery in a serene setting.</strong></p>\r\n\r\n<p><strong>The offices of IT and Pharma giants like Google, Amazon, Deloitte, Apple, Facebook, Cognizant, Genpact, Tech Mahindra, Indian School of Business, Tata Consultancy Services, Novartis and Universal Health Group, among many others, are all located within a 6-kilometer radius. Experience the luxury of staying just a few steps away from your next meeting or conference. As its name suggests, our stylish 5-star hotel sits adjacent to India&rsquo;s most trusted&nbsp;MICE&nbsp;venue, the&nbsp;<u><a href=\"http://www.hicc.com/\">Hyderabad International Convention Centre</a></u>, making it a natural choice for business travellers and MICE delegates.</strong></p>\r\n\r\n<p><strong>The hotel is also the ideal home base from which to explore Hyderabad &ndash; the City of Pearls.<br />\r\nFamilies and visitors can revel in the hustle and bustle of this major metropolis, and then retreat to the hotel for some peaceful relaxation and hearty sustenance. It is a great destination for business travellers seeking a relaxing stay in a resort-like ambience, replete with the sights and sounds of exotic birds, peaceful surroundings and a private driveway for a memorable arrival experience.</strong></p>",
+        "price": 10476,
+        "city": "HYD",
+        "address": "Novotel & HICC Complex, HITEC City - 500081",
+        "hotel_photo": "photos/2021/10/15/Novotel_U7nmTtc.jpg",
+        "hotel_photo_1": "photos/2021/10/15/Novotel1_sTQ7hc7.jpg",
+        "hotel_photo_2": "photos/2021/10/15/Novotel2_gaH1gzi.jpg",
+        "hotel_photo_3": "photos/2021/10/15/Novotel3_kD9t5Ad.jpg",
+        "hotel_photo_4": "photos/2021/10/15/Novotel4_Zim8RWc.jpg",
+        "amenities": "Laundry service,Salon,Spa,Restaurant,Hot bath,Nightclub / DJ,Entertainment staff,Bar / lounge,Fitness Centre with Gym / Workout Room,Pool,Free High Speed Internet (WiFi),Free Parking,AC",
+        "created_date": "2021-10-15T18:09:35Z"
+    }
+},
+{
+    "model": "hotels.hotel",
+    "pk": 2,
+    "fields": {
+        "hotel_name": "The Park Hyderabad",
+        "hotel_description": "<p><strong>The Park Hotel is located in the business, and entertainment area, offering spacious accommodation with views of the Hussain Sagar Lake.</strong></p>\r\n\r\n<p><strong>Rooms at The Park, Hyderabad are equipped with private bathroom facilities, walk-in closet, Hot tub, LCD Tv, DVD and a minibar. Guests will also find bathrobes.</strong></p>\r\n\r\n<p><strong>Guests can relax at the outdoor swimming pool, or work out at the well-equipped fitness centre. They can also enjoy massages and body treatments at the spa centre.</strong></p>\r\n\r\n<p><strong>Guests can enjoy endless variety of global cuisines like Mediterranean mezze, Japanese sushi, Western grills, Thai and Chinese along with array of international desserts along with free flowing drinks at Verandah. Authentic Hyderabadi cuisine is served at Aish and the poolside bar, Aqua offers a view of Hussain sagar lake. Kismet is an in-house pub.</strong></p>\r\n\r\n<p><strong>The Park is located 11 km from Golconda Fort. Secunderabad Railway Station is 9.7 km away and Rajiv Gandhi International Airport is 37 km from the hotel.</strong></p>\r\n\r\n<p><strong>We speak your language!</strong></p>",
+        "price": 6746,
+        "city": "HYD",
+        "address": "22 Raj Bhavan Road Somajiguda - 500082",
+        "hotel_photo": "photos/2021/10/15/Park.jpg",
+        "hotel_photo_1": "photos/2021/10/15/Park1.jpg",
+        "hotel_photo_2": "photos/2021/10/15/Park2.jpg",
+        "hotel_photo_3": "photos/2021/10/15/Park3.jpg",
+        "hotel_photo_4": "photos/2021/10/15/Park4.jpg",
+        "amenities": "Laundry service,Salon,Spa,Restaurant,Hot bath,Nightclub / DJ,Entertainment staff,Bar / lounge,Fitness Centre with Gym / Workout Room,Pool,Free High Speed Internet (WiFi),Free Parking,AC",
+        "created_date": "2021-10-15T19:55:39Z"
+    }
+},
+{
+    "model": "hotels.hotel",
+    "pk": 3,
+    "fields": {
+        "hotel_name": "OYO 7691 Kanha Boutique Hotel",
+        "hotel_description": "<p><strong><em>Did you know that we&rsquo;ve got&nbsp;2.5 Crore&nbsp;bookings since March 2020? And this is all thanks to the sanitisation &amp; safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.</em></strong></p>",
+        "price": 2476,
+        "city": "HYD",
+        "address": "Plot No. A-64, Radisson-DLF Road Mahathi Chambers, APHB Colony, Beside Serenity La Prime - 500032",
+        "hotel_photo": "photos/2021/10/15/OYO.jpg",
+        "hotel_photo_1": "photos/2021/10/15/OYO1.jpg",
+        "hotel_photo_2": "photos/2021/10/15/OYO2.jpg",
+        "hotel_photo_3": "photos/2021/10/15/OYO3.jpg",
+        "hotel_photo_4": "photos/2021/10/15/OYO4.jpg",
+        "amenities": "Laundry service,Hot bath,Free High Speed Internet (WiFi),Free Parking,AC",
+        "created_date": "2021-10-15T19:58:00Z"
+    }
+},
+{
+    "model": "hotels.hotel",
+    "pk": 4,
+    "fields": {
+        "hotel_name": "WelcomHotel Kences Palm Beach",
+        "hotel_description": "<p><strong>Located adjacent to the Mamallapuram beach, WelcomHotelKences Palm Beach is a blissful boutique hotel spread across 9 acres, overlooking the picturesque Bay of Bengal. WelcomHotelKences Palm Beach is designed to accommodate comfort in every corner with its well-appointed 94 rooms that range from club rooms to the exotic sea view suites. Contemporary decor, spacious design, luxurious finishes contribute to its uniqueness. Every aspect of design at WelcomHotelKences Palm Beach is intricately approached with comfort and luxury. Featuring an infinity pool, fine dining with indoor and outdoor restaurants catering to regional and international cuisines, a palatial pillar less banquet hall and convention spaces that fits in any occasion and an enticing line up of indoor and outdoor activities, WelcomHotelKences Palm Beach is all set to script new benchmarks in luxury and comfort.</strong></p>",
+        "price": 12231,
+        "city": "MHA",
+        "address": "No. 53, Devaneri Village, East Coast Road Devaneri Village - 603104",
+        "hotel_photo": "photos/2021/10/15/WelcomHotel.jpg",
+        "hotel_photo_1": "photos/2021/10/15/WelcomHotel1.jpg",
+        "hotel_photo_2": "photos/2021/10/15/WelcomHotel2.jpg",
+        "hotel_photo_3": "photos/2021/10/15/WelcomHotel3.jpg",
+        "hotel_photo_4": "photos/2021/10/15/WelcomHotel4.jpg",
+        "amenities": "Beach View,Laundry service,Salon,Spa,Restaurant,Hot bath,Nightclub / DJ,Entertainment staff,Bar / lounge,Fitness Centre with Gym / Workout Room,Pool,Free High Speed Internet (WiFi),Free Parking,AC",
+        "created_date": "2021-10-15T20:05:01Z"
+    }
+},
+{
+    "model": "hotels.hotel",
+    "pk": 5,
+    "fields": {
+        "hotel_name": "Regenta Inn, Vadodara",
+        "hotel_description": "<p><strong>Hotel Regenta Inn, Vadodara is an excellent choice of accommodation for anyone traveling to the city. Located at a strategic location near all major places of interest, Hotel Regenta Inn, Vadodara is home to well-appointed rooms, classy banqueting facilities and a multi-cuisine restaurant, Casablanca.</strong></p>",
+        "price": 1764,
+        "city": "VAD",
+        "address": "Very Close to Railway Station and the Bus Terminal, Sayajigunj Ved Transcube Plaza, Central Bus Terminal - 390002",
+        "hotel_photo": "photos/2021/10/15/Regenta_Inn.jpg",
+        "hotel_photo_1": "photos/2021/10/15/Regenta_Inn1.jpg",
+        "hotel_photo_2": "photos/2021/10/15/Regenta_Inn2.jpg",
+        "hotel_photo_3": "photos/2021/10/15/Regenta_Inn3.jpg",
+        "hotel_photo_4": "photos/2021/10/15/Regenta_Inn4.jpg",
+        "amenities": "Laundry service,Restaurant,Hot bath,Free High Speed Internet (WiFi),Free Parking,AC",
+        "created_date": "2021-10-15T20:11:36Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "hotel_id": 2,
+        "customer_need": "I'm interested in this",
+        "hotel_name": "The Park Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "email": "nnrajeshwarrao_cse1905a0@mgit.ac.in",
+        "phone": "99999999999",
+        "message": "I need more information on this",
+        "user_id": 1,
+        "create_date": "2021-10-18T13:01:12.842Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Rana",
+        "last_name": "P",
+        "hotel_id": 3,
+        "customer_need": "I'd like to know your best price for this",
+        "hotel_name": "OYO 7691 Kanha Boutique Hotel",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "email": "rana@gmail.com",
+        "phone": "00000000000",
+        "message": "I need more details",
+        "user_id": 1,
+        "create_date": "2021-10-18T13:04:52.310Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "hotel_id": 1,
+        "customer_need": "I'm interested in this",
+        "hotel_name": "Novotel Hyderabad Convention Centre",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "email": "rajeshneelakantam@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 3,
+        "create_date": "2021-10-18T15:25:22.245Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Tll07NVA8O8S8y7ELl43so$ZjV5hko5R6p7OOWSGfOyk7Txw6XmqY5M+gmRnA9MPRA=",
+        "last_login": "2021-10-19T10:00:47.857Z",
+        "is_superuser": true,
+        "username": "rajesh",
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "email": "nuthanrajesr@outlook.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-10-15T12:31:09Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Nz0qiuTiMkwTtha1KVe0Sw$QEslq+TmmuJ4fiswXqW+e2jjCwrS7AM1r+uoNB6hsZg=",
+        "last_login": "2021-10-16T09:57:23Z",
+        "is_superuser": false,
+        "username": "NR",
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "email": "nnrajeshwar@mgit.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-16T09:57:22Z",
+        "groups": [],
+        "user_permissions": [
+            [
+                "view_hotel",
+                "hotels",
+                "hotel"
+            ]
+        ]
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$ELP9YUfIyJ4OE6rgA9zwf4$OzLuzufKtgtcp2fdD2zGwg0xDYRiMwc3kX+6Vpl4CRU=",
+        "last_login": "2021-10-19T04:38:05.824Z",
+        "is_superuser": false,
+        "username": "rajeshneelakantam",
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "email": "rajeshneelakantam@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-16T10:00:55.803Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!CcXhNVa9TzeF91Tx5fE04UhJFpjYXLUh499u01RL",
+        "last_login": "2021-10-16T14:21:37.148Z",
+        "is_superuser": false,
+        "username": "rajesh4",
+        "first_name": "Rajesh",
+        "last_name": "Neelakantam",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-16T13:59:36.620Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!zBcN43Nxpw0e6yqt6NefPqTcupYqg0jN8nTGvk54",
+        "last_login": "2021-10-19T04:50:26.121Z",
+        "is_superuser": false,
+        "username": "n",
+        "first_name": "N",
+        "last_name": "NRAJESHWARRAO",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-16T14:24:55.147Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "04mloa3a1cl307iccrp9ewvx3v1aj6vp",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pACZSou3XsGMswMUjU0Ke3KeHfbpAvd_vfef6uI61Li2mSOI6uLMur0uyWkp9Qd8APrfdI01WUek94VfdCmbxPL63q4fwcFW9lqQIMunU3nLVkSAo8UwuC874Vdkgxg-yF34JCANhclWAjIlBNYBvX5AueKOFk:1mcNRK:CODs3b4b6X9QCQOeKXoG0Y9wzGNnMCmvZQnz2gLb2JA",
+        "expire_date": "2021-11-01T07:52:10.636Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "m08yog0twebltkvwmioak86r6atnqjmo",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pACZSou3XsGMswMUjU0Ke3KeHfbpAvd_vfef6uI61Li2mSOI6uLMur0uyWkp9Qd8APrfdI01WUek94VfdCmbxPL63q4fwcFW9lqQIMunU3nLVkSAo8UwuC874Vdkgxg-yF34JCANhclWAjIlBNYBvX5AueKOFk:1mbMMm:opNdtqs4GoRifZizPStmwMCEUItHrdJVqNv0SFuUD1Q",
+        "expire_date": "2021-10-29T12:31:16.928Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "pxe1qxrd066lkbs70q0x63szipj56gse",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hBoa2Fcuu8ZyMwwSNVAUtqV8e7apAvd_vfef6mA25rD1mQJc1QX1avT70bIDyk7iHcst6q5lnWZSe-KPmjTU43yvB7u30HGlr81RUeA7izGO7AInJAM96MhEuuTgMduRALyg2UrQxeRvGWMYLwkK-r9AQvhOR8:1mcQ2X:FirsPnXEF7PKPktyeujXe-PjwrNbsyXnZnkqa-3fpG4",
+        "expire_date": "2021-11-01T10:38:45.297Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "skrhqdmkm5uonh36zrxq4oa8bnkizre3",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pACZSou3XsGMswMUjU0Ke3KeHfbpAvd_vfef6uI61Li2mSOI6uLMur0uyWkp9Qd8APrfdI01WUek94VfdCmbxPL63q4fwcFW9lqQIMunU3nLVkSAo8UwuC874Vdkgxg-yF34JCANhclWAjIlBNYBvX5AueKOFk:1mclvL:JMXxSAYUm1t6WiUHSXJwbB6UjdQ0UPVV-tR_70rfiXw",
+        "expire_date": "2021-11-02T10:00:47.960Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "wh6kdcetw3ced0snfoan09l3d3jb2tdh",
+    "fields": {
+        "session_data": "eyJzb2NpYWxhY2NvdW50X3N0YXRlIjpbeyJwcm9jZXNzIjoibG9naW4iLCJzY29wZSI6IiIsImF1dGhfcGFyYW1zIjoiIn0sIm5SbGNiV2xVY3dPRiJdfQ:1mbkhe:tOkox2Wv7ZUIyNY6iBINu-XHG_yxtEuk6wz78ETPObo",
+        "expire_date": "2021-10-30T14:30:26.594Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "828315251178928",
+        "secret": "988b17fc4ba1dbfae56516f2f9afe56a",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "355622052570-k56gcp8js8o9ajb8293dub2rf9cafrbc.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "rajesh4"
+        ],
+        "provider": "facebook",
+        "uid": "1252736808579247",
+        "last_login": "2021-10-16T14:21:36.581Z",
+        "date_joined": "2021-10-16T13:59:36.996Z",
+        "extra_data": "{\"id\": \"1252736808579247\", \"name\": \"Rajesh Neelakantam\", \"first_name\": \"Rajesh\", \"last_name\": \"Neelakantam\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "n"
+        ],
+        "provider": "google",
+        "uid": "102947197451068626763",
+        "last_login": "2021-10-19T04:50:25.429Z",
+        "date_joined": "2021-10-16T14:24:55.403Z",
+        "extra_data": "{\"id\": \"102947197451068626763\", \"name\": \"N NRAJESHWARRAO\", \"given_name\": \"N\", \"family_name\": \"NRAJESHWARRAO\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GhCdMWsig3dLyBIrLc0uf3WSYE4rqKK6jWDTEKOqw=s96-c\", \"locale\": \"en-GB\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAALxWSxOZCbABACPpbW6Bal2qxyhqSRKhQxmuI1SAUrTlr5ycgok4KrTdoW4bIt0BAp9hoDTQZAqeOGwdxqBpyNaB2BoWoo0nQyjdimaMnOg7PjK7EjuupMFcgxCdZBL58jquRacs7haimVG087Iq1qdQwcEr81or9ZACZA8hquw2EX7Wdkuqp59STrJu5SCoEKzjTcZAwSPBK6bw64SNkNRsLx00L1bHKx1IGR31ZBEQZDZD",
+        "token_secret": "",
+        "expires_at": "2021-12-15T13:59:33.255Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0ARrdaM8nW1bACDvONDxSSbmP2OlwSAypQs5ZIt1_5xXqsYeDr3Wk8XibFmoF_7ngY17XF2WKftLOI-yHXUNBiNlHHyLZjV_9dvimbeAx6jPlQY8iY1mMeRKtzozBnpHJDRTUA3BmOxXkhT91guK8GZvcaiLy",
+        "token_secret": "",
+        "expires_at": "2021-10-19T05:50:24.216Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-10-15T12:41:22.270Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-10-15T14:26:50.078Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-10-15T14:27:05.145Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-10-15T14:29:52.105Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-10-15T14:32:11.009Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Amenities\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-10-15T14:32:16.009Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Amenities\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-10-15T14:32:23.968Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "o",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-10-15T14:32:33.878Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "OYO 7691 Kanha Boutique Hotel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel name\", \"Amenities\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-10-15T14:39:26.130Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "WelcomHotel Kences Palm Beach",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-10-15T14:45:21.832Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "5",
+        "object_repr": "Regenta Inn, Vadodara",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-10-15T14:48:43.165Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "Welcom Hotel Kences Palm Beach",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-10-16T06:04:05.244Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\", \"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-10-16T06:04:24.426Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\", \"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-10-16T06:04:42.192Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "OYO 7691 Kanha Boutique Hotel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\", \"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-10-16T06:05:00.546Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "Welcom Hotel Kences Palm Beach",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\", \"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-10-16T06:05:18.331Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "5",
+        "object_repr": "Regenta Inn, Vadodara",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\", \"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-10-16T09:58:43.267Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "NR",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-10-16T13:58:18.166Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-10-16T13:58:36.391Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-10-16T13:58:52.227Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-10-16T13:59:01.211Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-10-16T14:14:53.952Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-10-18T07:57:15.869Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "rajesh@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-10-18T09:42:17.864Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "rajesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-10-18T09:55:55.718Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "NR",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-10-18T09:56:11.049Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "rajesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-10-19T05:43:31.263Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-10-19T05:45:34.762Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-10-19T05:47:11.881Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-10-19T05:47:43.281Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-10-19T05:48:35.800Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "OYO 7691 Kanha Boutique Hotel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-10-19T05:49:02.312Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "OYO 7691 Kanha Boutique Hotel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-10-19T05:49:34.844Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "WelcomHotel Kences Palm Beach",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-10-19T05:50:19.758Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "WelcomHotel Kences Palm Beach",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-10-19T05:50:32.570Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "5",
+        "object_repr": "Regenta Inn, Vadodara",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hotel description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2021-10-19T05:51:08.399Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "1",
+        "object_repr": "Novotel Hyderabad Convention Centre",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2021-10-19T05:51:28.303Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "4",
+        "object_repr": "WelcomHotel Kences Palm Beach",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2021-10-19T05:51:50.890Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "2",
+        "object_repr": "The Park Hyderabad",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2021-10-19T05:52:01.670Z",
+        "user": [
+            "rajesh"
+        ],
+        "content_type": [
+            "hotels",
+            "hotel"
+        ],
+        "object_id": "3",
+        "object_repr": "OYO 7691 Kanha Boutique Hotel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+}
+]

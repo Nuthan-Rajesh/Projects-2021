@@ -1,0 +1,47 @@
+body{
+    background-color: grey;
+}
+
+.tech {
+    font-size: 150%;
+    margin-bottom: 10px;
+}
+
+.footer {
+    
+    height: 50px;
+}
+
+.font {
+    font-size: 180%;
+    margin-bottom: 15px;
+}
+
+.bigbrand {
+    font-size: 1.5em;
+}
+
+.centerstage {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.postdate {
+    text-align: center;
+}
+
+.posttitle {
+    font-family: 'Ephesis';
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent {
+    font-family: 'Ephesis';
+    font-size: 1.5em;
+}
+
+.btn-comment {
+    position: absolute;
+    right: 0px;
+}

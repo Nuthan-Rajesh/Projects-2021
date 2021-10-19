@@ -1,0 +1,25 @@
+{% extends 'blog/base.html' %}
+
+
+{% block content %}
+{% load socialaccount %}
+  <div class="jumbotron">
+
+    <h2>Please Login: </h2>
+    <h3>(Must be SuperUser, please check admin for issues.)</h3>
+    {% if form.errors %}
+        <p>Your username and password didn't match.Please try again!</p>
+    {% endif %}
+
+    <form method="POST" action="{% url 'login' %}">
+    {% csrf_token %}
+        {{form.as_p}}
+        <div class="login">
+        <input type="submit" class='btn btn-primary' value="Login" /> OR 
+        <a href="{% provider_login_url 'google' %}"><img width="150" height="50" src="data:image/png;base64,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"></a>
+        <input type="hidden" name="next" value="{{ next }}" />
+        </div>
+    </form>
+
+  </div>
+{% endblock %}
