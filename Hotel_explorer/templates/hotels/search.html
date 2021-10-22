@@ -22,7 +22,7 @@
             <div class="search-contents">
                 <form action="{% url 'search' %}" method="GET">
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-4">
                             <div class="form-group">
                                 <select class="form-control search-fields" name="city">
                                     <option selected="true" disabled="disabled">City</option>
@@ -32,8 +32,18 @@
                                 </select>
                             </div>
                         </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-4">
+                            <div class="form-group">
+                                <select class="form-select" name="amenity" multiple>
+                                    <option selected="true" disabled="disabled">Amenities</option>
+                                    {% for amenity in amenities %}
+                                        <option value="{{amenity}}">{{amenity}}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
 
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-4">
                             <div class="form-group">
                                 <div class="range-slider">
                                     <div data-min="0" data-max="15000" data-min-name="min_price"
@@ -44,7 +54,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="form-group">
                                 <button class="btn btn-block button-theme btn-md">
                                     <i class="fa fa-search"></i>Find
