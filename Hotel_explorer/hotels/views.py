@@ -49,10 +49,14 @@ def search(request):
             hotels =  hotels.filter(price__gte=min_price,price__lte=max_price)
 
     city_search = Hotel.objects.values_list('city',flat=True).distinct()
-
+    amenity_search = Hotel.objects.values_list('amenities',flat=True)
+    x = set()
+    for i in amenity_search:
+        for j in i:
+            x.add(j)
     data = {
         'hotels':hotels,
-
+        'amenities':x,
         'city_search':city_search,
         
     }

@@ -8,8 +8,14 @@ from django.contrib import messages
 def home(request):
     all_hotels = Hotel.objects.order_by('-created_date')
     city_search = Hotel.objects.values_list('city',flat=True).distinct()
+    amenity_search = Hotel.objects.values_list('amenities',flat=True)
+    x = set()
+    for i in amenity_search:
+        for j in i:
+            x.add(j)
     data = {
         'all_hotels':all_hotels,
+        'amenities':x,
         'city_search':city_search,
     }
     return render(request,'page/home.html',data)
